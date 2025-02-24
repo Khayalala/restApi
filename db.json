@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": "66ea",
+      "name": "Khayala",
+      "age": "31",
+      "occupationId": "1",
+      "status": true
+    },
+    {
+      "id": "ec0d",
+      "name": "Leyla",
+      "age": "22",
+      "occupationId": "3",
+      "status": false
+    },
+    {
+      "id": "ff32",
+      "name": "Rauf",
+      "age": "32",
+      "occupationId": "4",
+      "status": true
+    },
+    {
+      "id": "f195",
+      "name": "Mehin",
+      "age": "34",
+      "occupationId": "5",
+      "status": true
+    },
+    {
+      "id": "f2f9",
+      "name": "Zamina",
+      "age": "54",
+      "occupationId": "2",
+      "status": true
+    },
+    {
+      "id": "b208",
+      "name": "Jenny",
+      "age": "31",
+      "occupationId": "1",
+      "status": true
+    },
+    {
+      "id": "33f1",
+      "name": "Rob",
+      "age": "24",
+      "occupationId": "1",
+      "status": true
+    }
+  ],
+  "professions": [
+    {
+      "id": "1",
+      "name": "Front-end Developer"
+    },
+    {
+      "id": "2",
+      "name": "Back-end Developer"
+    },
+    {
+      "id": "3",
+      "name": "IOS Developer"
+    },
+    {
+      "id": "4",
+      "name": "Android Developer"
+    },
+    {
+      "id": "5",
+      "name": "Javascript Developer"
+    }
+  ]
+}

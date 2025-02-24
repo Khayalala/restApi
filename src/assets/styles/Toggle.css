@@ -1,0 +1,36 @@
+/* Background changes when toggled */
+.bg-green {
+  background-color: green;
+}
+
+.bg-gray {
+  background-color: gray;
+}
+
+.toggle-container {
+  width: 60px;
+  height: 30px;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.toggle-on {
+  transform: translateX(30px);
+}
+
+.toggle-off {
+  transform: translateX(0);
+}
+
+.toggle-circle {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  border-radius: 50%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease-in-out;
+}
